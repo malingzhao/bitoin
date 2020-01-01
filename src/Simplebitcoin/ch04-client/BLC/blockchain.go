@@ -119,6 +119,7 @@ func (i *BlockchainIterator) Next() *Block {
 
 
 
+
 //创建新的迭代器的方法
 func (bc *BlockChain) Iterator() *BlockchainIterator{
 	bci := &BlockchainIterator{bc.Tip,bc.Db}
