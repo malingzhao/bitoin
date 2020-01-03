@@ -2,14 +2,24 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/Simplebitcoin/ch03-persist/BLC/block.go" line="67" />
+    <bookmark url="file://$PROJECT_DIR$/src/bitCoinEducation/ch03-pow/BLC/ProofOfWork.go" line="48" />
+    <bookmark url="file://$PROJECT_DIR$/src/bitCoinEducation/ch05-boltdb/BLC/BlockChain.go" line="45" />
+    <bookmark url="file://$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/CLI.go" line="40" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23a8fed1-4639-41b5-8411-26801197b148" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/transaction.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitCoinEducation/ch01-bc/BLC/Block.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitCoinEducation/ch01-bc/BLC/utils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitCoinEducation/ch01-bc/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitCoinEducation/ch01-bc/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitCoinEducation/ch02-blc/BLC/BlockChain.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitCoinEducation/ch03-pow/BLC/ProofOfWork.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitCoinEducation/ch04-boltdb/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitCoinEducation/ch07-iterator/BLC/BLCIter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitCoinEducation/ch09-bc-cli/BLC/CLI.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/Tx_Output.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain.db.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simplebitcoin/ch04-client/blockchain.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,96 +28,44 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/transaction.go">
+        <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/Tx_Output.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1749">
-              <caret column="11" selection-start-column="11" selection-end-column="11" />
-              <folding>
-                <element signature="e#14#96#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="95">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/utils.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch14-cli-send/Readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="57">
+                <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/readme.md">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="114">
-                <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/proofwork.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="14" selection-start-line="14" selection-end-line="15" />
-              <folding>
-                <element signature="e#14#77#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/blockchain.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding>
-                <element signature="e#14#87#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/goproject/src/github.com/boltdb/bolt/db.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="628" selection-start-line="628" selection-end-line="628" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/cli.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="103" selection-start-line="103" selection-end-line="103" />
-              <folding>
-                <element signature="e#14#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/Readme.md">
+        <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor>
-                <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="57">
+                <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -115,13 +73,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/block.go">
+        <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/Tx_Input.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-148">
-              <caret line="48" column="25" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="25" />
-              <folding>
-                <element signature="e#14#81#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="209">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/ProofOfWork.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/CLI.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="143" column="24" selection-start-line="143" selection-start-column="24" selection-end-line="143" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/utils.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="23" column="71" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch15-send/Readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="38">
+                <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/BlockChain.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="212" column="35" selection-start-line="212" selection-start-column="35" selection-end-line="212" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -139,6 +142,15 @@
     <findStrings>
       <find>CreateBlock</find>
       <find>Usage of printchain:</find>
+      <find>blockBytes</find>
+      <find>blockBytes:%v</find>
+      <find>add</find>
+      <find>HashTransac</find>
+      <find>目标地址不能</find>
+      <find>BlockChainO</find>
+      <find>printchain</find>
+      <find>vout-scriptPubKey</find>
+      <find>MineBlock</find>
     </findStrings>
   </component>
   <component name="GOROOT" path="D:\java\go" />
@@ -148,39 +160,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch01-origin/BLC/block.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch01-origin/BLC/blockchain.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch01-origin/main.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch02-pow/main.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch02-pow/BLC/utils.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch02-pow/BLC/block.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch02-pow/BLC/proofwork.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/Readme.md" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch03-persist/BLC/block.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch03-persist/readme.md" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch03-persist/main.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch03-client/readme.md" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch03-client/BLC/cli.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch03-persist/BLC/blockchain.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch04-client/BLC/blockchain.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch04-client/main.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch04-client/BLC/cli.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch04-client/readme.md" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/readme.md" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/main.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/block.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/transaction.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/blockchain.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/cli.go" />
-        <option value="$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/proofwork.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch07-iterator/BLC/BlockChain.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch07-iterator/BLC/BLCIter.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch08-cli/Readme.md" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch08-cli/main.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch09-bc-cli/BLC/client.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch09-bc-cli/main.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch09-bc-cli/Readme.md" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch09-bc-cli/BLC/BlockChain.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-obj/BLC/BlockChain.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-obj/main.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-obj/BLC/CLI.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch09-bc-cli/BLC/CLI.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-obj/Readme.md" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-tx/Readme.md" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-tx/BLC/Transaction.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-tx/BLC/Block.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-tx/BLC/BlockChain.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-tx/BLC/CLI.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-tx/main.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/main.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/ProofOfWork.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/Transaction.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/Tx——Input.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/Tx_Input.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/Tx_Output.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/Readme.md" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/main.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/BLC/ProofOfWork.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/BLC/Block.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/BLC/Tx_Input.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/BLC/Transaction.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/BLC/BlockChain.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/BLC/CLI.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/Readme.md" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch13-cli-send/main.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch13-cli-send/BLC/CLI.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch13-cli-send/Readme.md" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch14-cli-send/main.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch14-cli-send/BLC/utils.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch14-cli-send/BLC/CLI.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch14-cli-send/Readme.md" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch15-send/BLC/BlockChain.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch15-send/BLC/CLI.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch15-send/main.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch15-send/Readme.md" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/main.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/Tx_Output.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/Transaction.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/BlockChain.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/CLI.go" />
+        <option value="$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/Readme.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="893" />
-    <option name="width" value="1068" />
-    <option name="height" value="1072" />
+    <option name="x" value="785" />
+    <option name="y" value="71" />
+    <option name="width" value="1199" />
+    <option name="height" value="1010" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -203,22 +241,75 @@
               <item name="bitoin" type="b2602c69:ProjectViewProjectNode" />
               <item name="bitoin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Simplebitcoin" type="462c0819:PsiDirectoryNode" />
+              <item name="bitCoinEducation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bitoin" type="b2602c69:ProjectViewProjectNode" />
               <item name="bitoin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Simplebitcoin" type="462c0819:PsiDirectoryNode" />
-              <item name="ch05-transaction1" type="462c0819:PsiDirectoryNode" />
+              <item name="bitCoinEducation" type="462c0819:PsiDirectoryNode" />
+              <item name="ch14-cli-send" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bitoin" type="b2602c69:ProjectViewProjectNode" />
               <item name="bitoin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Simplebitcoin" type="462c0819:PsiDirectoryNode" />
-              <item name="ch05-transaction1" type="462c0819:PsiDirectoryNode" />
+              <item name="bitCoinEducation" type="462c0819:PsiDirectoryNode" />
+              <item name="ch15-send" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitoin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitoin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bitCoinEducation" type="462c0819:PsiDirectoryNode" />
+              <item name="ch15-send" type="462c0819:PsiDirectoryNode" />
               <item name="BLC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitoin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitoin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bitCoinEducation" type="462c0819:PsiDirectoryNode" />
+              <item name="ch16-new-tx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitoin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitoin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bitCoinEducation" type="462c0819:PsiDirectoryNode" />
+              <item name="ch16-new-tx" type="462c0819:PsiDirectoryNode" />
+              <item name="BLC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitoin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitoin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bitCoinEducation" type="462c0819:PsiDirectoryNode" />
+              <item name="ch16-new-tx" type="462c0819:PsiDirectoryNode" />
+              <item name="BLC" type="462c0819:PsiDirectoryNode" />
+              <item name="CLI.go" type="e9541c9c:GoTreeStructureProvider$GoFileNode" />
+            </path>
+            <path>
+              <item name="bitoin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="bitoin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.9.2" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+            <path>
+              <item name="bitoin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.9.2" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitoin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.9.2" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="crypto" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,18 +329,23 @@
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Simplebitcoin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/bitCoinEducation" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\workspace\qukuailian\bitoin\src\Simplebitcoin\ch05-transaction1\BLC" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\qukuailian\bitoin\src\bitCoinEducation" />
       <recent name="D:\workspace\qukuailian\bitoin\src\Simplebitcoin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\qukuailian\bitoin\src\bitCoinEducation" />
+      <recent name="D:\workspace\qukuailian\bitoin\src\bitCoinEducation\ch01-bc" />
+      <recent name="D:\workspace\qukuailian\bitoin\src\bitCoinEducation\ch02-blc" />
+      <recent name="D:\workspace\qukuailian\bitoin\src\bitCoinEducation\ch03-pow" />
+      <recent name="D:\workspace\qukuailian\bitoin\src\Simplebitcoin\ch05-transaction1\BLC" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -264,13 +360,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (4)">
+  <component name="RunManager" selected="Go Build.go build main.go (3)">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="bitoin" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/Simplebitcoin/ch02-pow/main.go" />
+      <filePath value="$PROJECT_DIR$/src/bitCoinEducation/ch09-bc-cli/main.go" />
+      <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -278,7 +375,8 @@
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/Simplebitcoin/ch03-persist/main.go" />
+      <filePath value="$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-obj/main.go" />
+      <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -286,7 +384,8 @@
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/Simplebitcoin/ch04-client/main.go" />
+      <filePath value="$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/main.go" />
+      <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -294,7 +393,8 @@
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/main.go" />
+      <filePath value="$PROJECT_DIR$/src/bitCoinEducation/ch06-printchain/main.go" />
+      <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -302,41 +402,52 @@
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/Simplebitcoin/ch01-origin/main.go" />
+      <filePath value="$PROJECT_DIR$/src/bitCoinEducation/ch08-cli/main.go" />
+      <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go (4)" />
         <item itemvalue="Go Build.go build main.go (3)" />
         <item itemvalue="Go Build.go build main.go (2)" />
         <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build main.go (4)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="715" y="0" width="854" height="857" extended-state="0" />
+    <frame x="628" y="57" width="959" height="808" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.6947236" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.24689655" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.2563818" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4469914" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40713224" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2776204" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292011" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30029586" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,330 +459,426 @@
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/src/Simplebitcoin/ch03-persist/main.go</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/src/Simplebitcoin/ch04-client/main.go</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/blockchain.go</url>
           <line>119</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/blockchain.go</url>
           <line>185</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/main.go</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/blockchain.go</url>
           <line>79</line>
-          <properties />
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/bitCoinEducation/ch02-blc/main.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/bitCoinEducation/ch04-boltdb/main.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/bitCoinEducation/ch05-boltdb/main.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/bitCoinEducation/ch07-iterator/BLC/BlockChain.go</url>
+          <line>106</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/bitCoinEducation/ch06-printchain/main.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch01-origin/BLC/block.go">
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-obj/BLC/Block.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="31" column="80" selection-start-line="31" selection-start-column="80" selection-end-line="31" selection-end-column="80" />
+        <state relative-caret-position="38">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
-            <element signature="e#13#43#0" expanded="true" />
+            <element signature="e#13#80#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch01-origin/BLC/blockchain.go">
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-obj/BLC/BlockChain.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch01-origin/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="-190">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
-            <element signature="e#14#66#0" expanded="true" />
+            <element signature="e#13#81#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch02-pow/BLC/utils.go">
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-obj/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-obj/BLC/CLI.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="e#13#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch02-pow/BLC/block.go">
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch09-bc-cli/BLC/Block.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch09-bc-cli/BLC/utils.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch09-bc-cli/BLC/ProofOfWork.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch09-bc-cli/BLC/CLI.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        <state relative-caret-position="1691">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch02-pow/BLC/proofwork.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
-          <folding>
-            <element signature="e#13#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch02-pow/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="e#14#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch10-bc-obj/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="76">
-            <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch03-persist/BLC/utils.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch03-persist/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="133">
-            <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/CLI.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1862">
+          <caret line="104" column="31" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch03-persist/BLC/proofwork.go">
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1175" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch04-client/BLC/proofwork.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch03-persist/BLC/block.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch02-pow/BLC/blockchain.go">
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/ProofOfWork.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        <state relative-caret-position="1235">
+          <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/goproject/src/golang.org/x/tools/go/ssa/interp/testdata/src/fmt/fmt.go">
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/BlockChain.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="2888">
+          <caret line="158" column="5" selection-start-line="158" selection-start-column="5" selection-end-line="158" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch04-client/BLC/block.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch04-client/BLC/blockchain.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#13#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch04-client/BLC/utils.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#13#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch04-client/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#14#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch03-persist/BLC/blockchain.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="125" column="1" selection-start-line="119" selection-end-line="125" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch03-persist/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch04-client/BLC/cli.go">
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/Block.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/Tx_Input.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/Tx_Output.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/BLC/ProofOfWork.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
           <folding>
-            <element signature="e#13#108#0" expanded="true" />
+            <element signature="e#13#68#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch04-client/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/java/go/src/log/log.go">
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/BLC/Block.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="325" selection-start-line="325" selection-end-line="325" />
+        <state relative-caret-position="282">
+          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/Readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor>
-            <caret column="1" selection-start-column="1" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/goproject/src/github.com/boltdb/bolt/db.go">
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/BLC/Tx_Input.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="628" selection-start-line="628" selection-end-line="628" />
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/blockchain.db">
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/BLC/Tx_Output.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/BLC/BLCIter.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/main.go">
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/BLC/BlockChain.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="97" column="24" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/BLC/CLI.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="75" column="45" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/BLC/Transaction.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch12-coinbase/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch13-cli-send/BLC/ProofOfWork.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/Transaction.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch11-bc-tx/BLC/BLCIter.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch13-cli-send/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch13-cli-send/BLC/CLI.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch13-cli-send/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch14-cli-send/BLC/CLI.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="84" column="4" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch14-cli-send/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch14-cli-send/BLC/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch15-send/BLC/BlockChain.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="210" selection-start-line="210" selection-end-line="210" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch15-send/BLC/CLI.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="194" selection-start-line="194" selection-end-line="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch15-send/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/readme.md">
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/Transaction.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/Tx_Output.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/Tx_Input.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/ProofOfWork.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/BlockChain.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="212" column="35" selection-start-line="212" selection-start-column="35" selection-end-line="212" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/CLI.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="143" column="24" selection-start-line="143" selection-start-column="24" selection-end-line="143" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/BLC/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" column="71" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch15-send/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/blockchain.db">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/utils.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/cli.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
-          <folding>
-            <element signature="e#14#63#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch14-cli-send/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/blockchain.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="e#14#87#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/block.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-148">
-          <caret line="48" column="25" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="25" />
-          <folding>
-            <element signature="e#14#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/transaction.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1749">
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#14#96#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Simplebitcoin/ch05-transaction1/BLC/proofwork.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" selection-start-line="14" selection-end-line="15" />
-          <folding>
-            <element signature="e#14#77#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/src/bitCoinEducation/ch16-new-tx/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
